@@ -1,7 +1,7 @@
 #
 # <p align=center> House Price Predictions </p>
 
-# EM DESENVOLVIMENTO
+# EM DESENVOLVIMENTO ... 
 
 Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor de um imóvel, baseado em diversas características.
 
