@@ -1,9 +1,9 @@
 #
 # <p align=center> House Price Predictions </p>
 
-# EM DESENVOLVIMENTO ... 
-
 Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor de um imóvel, baseado em diversas características.
+
+![gifHousePrice](https://user-images.githubusercontent.com/54869201/153724466-f1a43847-0dbc-4280-87cc-6041f0a1aed9.gif)
 
 #
 
@@ -21,8 +21,12 @@ Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor 
 
 ## Descrição dos arquivos:
 
+1. **House Prices:**
 1. **train.csv:** 
 1. **teste.csv:** 
+
+
+
 
 
 
