@@ -2,7 +2,7 @@
 
 Aplicação de algoritmos de Machine Learning para efetuar a previsão do valor de um imóvel, baseado em diversas características.
 
-![gifHousePrice](https://user-images.githubusercontent.com/54869201/153724466-f1a43847-0dbc-4280-87cc-6041f0a1aed9.gif)
+![gifBanner](https://user-images.githubusercontent.com/54869201/157147516-508d1164-dd12-445c-bdf0-e2416fab465b.gif)
 
 ## Ferramentas e linguagens utilizadas:
 
